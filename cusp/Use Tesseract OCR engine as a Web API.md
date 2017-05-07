@@ -1,7 +1,11 @@
 # Use Tesseract OCR engine as a Web API
+
 **Rev. 1.0**
-**Author:** Nicolas Metallo								           
+
+**Author:** Nicolas Metallo
+
 **Date:** 4/7/17
+
 ## Step by Step Guide
 #### Install Tesseract OCR
 - Using the previous EC2 Instance we launched ami-b1e2c4a6 we will launch our image caption generation
